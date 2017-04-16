@@ -28,6 +28,6 @@ With:
 
 ## &c 
 
-Vaguely inspired by https://github.com/rovest/UlyssesReportAndMarkdown. (I initially implemented it in Workflow for iOS, but it's way too slow for regular use with a Ulysses library of 500+ sheets).
+Vaguely inspired by the Workflow for iOS workflows at https://github.com/rovest/UlyssesReportAndMarkdown. (I initially implemented it in Workflow for iOS, but it's way too slow for regular use with a Ulysses library of 500+ sheets).
 
 In my view, quick linking between sheets makes Ulysses much more viable as an NVAlt replacement.  
