@@ -1,5 +1,5 @@
 # Alfred-GetUlyssesSheetURL
-## An Alfred script filter for quick access to Ulysses sheet URLs
+## An Alfred script filter for quick access to Ulysses sheet (and group and filter) URLs
 
 This is a python script which uses v. 2.8 of the [Ulysses x-callback-url scheme](https://ulyssesapp.com/kb/x-callback-url/) to populate a script filter for [Alfred 3](https://www.alfredapp.com).  It outputs Alfred-ready JSON but could probably be easily adapted for other launchers.
 
@@ -16,7 +16,7 @@ It replaces Ulysses' native process, which gets really tedious if you need to do
 With:
 * launch the Alfred script filter
 * find the title of the sheet you want to link to
-* hit enter
+* hit enter & a markdown-ready link to the sheet will be copied to the clipboard
 * Paste From Markdown in Ulysses
 
 ## Setup
