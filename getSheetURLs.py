@@ -1,5 +1,7 @@
 #!/usr/bin/python
 
+# written for Python 2.7.10 as shipped in Mac OS Sierra
+
 import json
 import os
 import urllib
