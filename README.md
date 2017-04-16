@@ -24,7 +24,7 @@ With:
 * install [xcall](https://github.com/martinfinke/xcall)
 * In Alfred, create a new script filter, with language = python , and check "Alfred filters results"
 * copy the script to the script filter
-* Replace the access token in the code (see the authentication process on the Ulysses x-callback-url docs)
+* Replace the access token in the code with your own (see the authentication process on the Ulysses x-callback-url docs or the directions here: https://github.com/rovest/UlyssesReportAndMarkdown/blob/master/xcall.app.md )
 
 ## &c 
 
